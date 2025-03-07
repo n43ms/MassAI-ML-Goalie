@@ -1,0 +1,29 @@
+About Dataset
+Context
+This dataset was created because I wanted to analyze shooting tendencies in penalty shooting. It was built by watching every single penalty kick in a World Cup Shootout from Spain 1982 to Russia 2018.
+
+Content
+For each penalty I registered the following:
+
+Kicking Team
+Where the shot was taken. To do this, I divided the goal in 9 different zones.
+Whether the shooter was left or right footed.
+Where did the keeper dive.
+Whether the shot was on target or not.
+Whether the shot went in or not.
+The penalty number in each series.
+Whether or not the penalty was for elimination. This where the cases when, if the shot went in, the Game was over or the cases where a miss would end the game.
+Notes
+In the Zone column, I divided the goal into 9 different sections looking at it from the front:
+
+Upper left corner
+Upper center
+Upper right corner
+Middle left area
+Middle center area
+Middle right area
+Bottom left corner
+Bottom center zone
+Bottom right corner
+
+https://www.kaggle.com/datasets/pablollanderos33/world-cup-penalty-shootouts
