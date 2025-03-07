@@ -6,24 +6,25 @@ Content
 For each penalty I registered the following:
 
 Kicking Team
-Where the shot was taken. To do this, I divided the goal in 9 different zones.
+Where the shot was taken. To do this, I divided the goal in 9 different zones. (picture attached in other file)
 Whether the shooter was left or right footed.
-Where did the keeper dive.
+Where did the keeper dive. **OUR TARGETS SHOULD BE ZONE**
 Whether the shot was on target or not.
 Whether the shot went in or not.
 The penalty number in each series.
 Whether or not the penalty was for elimination. This where the cases when, if the shot went in, the Game was over or the cases where a miss would end the game.
-Notes
+Notes - **high pressure situation or not** - 0 for not high pressure, 1 for high pressure
 In the Zone column, I divided the goal into 9 different sections looking at it from the front:
 
-Upper left corner
-Upper center
-Upper right corner
-Middle left area
-Middle center area
-Middle right area
-Bottom left corner
-Bottom center zone
-Bottom right corner
+1)Upper left corner
+2)Upper center
+3)Upper right corner
+4)Middle left area
+5)Middle center area
+6)Middle right area
+7)Bottom left corner
+8)Bottom center zone
+9)Bottom right corner
+
 
 https://www.kaggle.com/datasets/pablollanderos33/world-cup-penalty-shootouts
